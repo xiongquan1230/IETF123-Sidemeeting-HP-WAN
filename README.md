@@ -2,7 +2,7 @@
 
 We're planning to have a side meeting at IETF 123: High-performance WAN. This side meeting will focus on the HP-WAN technical solution especially the host-network collaboration signaling to enhance the congestion control following up the discussions upon IETF121 BoF and IETF122 side meeting.
 
-Time: Thursday July 24 - 17:00-18:00 (Madrid) (PM 23：00-24：00 Beijing Time)
+Time: Thursday July 24 - 15:30-16:30 (Madrid) (PM 21：30-22：30 Beijing Time)
 
 Location: Room SEGOVIA
 
