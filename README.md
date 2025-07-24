@@ -15,11 +15,15 @@ The primary agenda is shown as below.
 
 1,Note well, welcome statements, introduction and agenda bash. 5mins
 
-2,State-Of-The-Art, Daniel King, 15min
+2,State-Of-The-Art, Tim Chown, 15min
+
+https://docs.google.com/presentation/d/1stJ5Tf89tsagLBsL9UUqwnWEL-whcppz6sRMKuj2Af0/edit?slide=id.p#slide=id.p
 
 3,Signaling solution, Quan Xiong, 15min
 
-4,Open Issues Discussion, 25min
+4,HP-WAN Pseudo Charter, Daniel Huang, 10min
+
+5,Open Issues Discussion, 15min
 
 Related drafts:
 
